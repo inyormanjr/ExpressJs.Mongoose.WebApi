@@ -1,7 +1,7 @@
 {
-  "name": "mileague.webapi",
+  "name": "Mongoose.webapi",
   "version": "1.0.0",
-  "description": "WebApi Service Endpoint for MiLeague Client Applications",
+  "description": "WebApi Service Endpoint for  Client Applications",
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=production node server",
